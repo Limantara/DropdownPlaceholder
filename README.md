@@ -1,6 +1,6 @@
 **CKEditor4 dropdownPlaceholder**
 
-This plugin will add a button (RichCombo), to the editor, that has a dropdown menu. When one of the menu is clicked, a placeholder is added to the textarea.
+This plugin will add a button (RichCombo) that has a dropdown menu to the editor. When one of the menu is clicked, a placeholder is added to the textarea.
 
 **Dependency:**
 <br>1. This plugin requires [Widget](http://ckeditor.com/addon/widget)

@@ -13,4 +13,4 @@ This plugin will add a button (RichCombo) to the editor that has some dropdown m
 
 **Screenshot:**
 <br>
-![Screenshot](http://i.imgur.com/tkkJTUR.png)
+![Screenshot](http://i.imgur.com/0jHKjgp.png)

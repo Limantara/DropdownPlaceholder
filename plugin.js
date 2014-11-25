@@ -7,7 +7,7 @@ var buttonsName = 'crm_field_button',
     RCTitle = 'Insert CRM Field',
     RCToolbar = 'others';
 
-var values = ['VCG__VAL__FIRST_NAME','VCG__VAL__ADDRESS' ],
+var values = ['VCG__VAL__FIRST_NAME', 'VCG__VAL__LAST_NAME', 'VCG__VAL__ADDRESS' ],
     labels = ['FIRST NAME', 'LAST NAME', 'ADDRESS'],
     tooltips = ['Insert First Name', 'Insert Last Name', 'Insert Adress'];
 
